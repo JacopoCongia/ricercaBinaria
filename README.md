@@ -4,3 +4,5 @@ Programma realizzato in C che genera una sequenza casuale di numeri, li ordina u
 Grazie all'algoritmo di ricerca binaria (binary search) il programma restituisce all'utente la posizione del numero inserito all'interno dell'array, se presente.
 
 **Versione di prova su OnlineGDB:** https://onlinegdb.com/ophAWcFbE
+
+![alt text](https://github.com/JacopoCongia/ricercaBinaria/blob/main/Ricerca%20Binaria.pdf)
